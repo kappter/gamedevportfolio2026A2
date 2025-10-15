@@ -6,7 +6,7 @@
 
 Detail description.
 
-![Running Game]()
+![Running Game](https://github.com/kappter/gamedevportfolio2026A2/blob/main/images/spacegame01.png?raw=true)
 
 * [Windows]()
 * [MacOS](https://github.com/kappter/gamedevportfolio2026A2/blob/main/src/SpaceGame/macos-aarch64.zip)
